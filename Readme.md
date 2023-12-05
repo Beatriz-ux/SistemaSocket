@@ -11,7 +11,7 @@ Simula um sistema de estoque por intermédio de Sockets TCP, apenas usuários co
 
 ## Protocolo
 
-![Diagrama](./assets/diagrama.png)
+![Diagrama](./protocolo.png)
 
 1. Usuário se conecta ao Host e Porta, definida previamente nele (host)
 
